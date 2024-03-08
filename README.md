@@ -16,19 +16,13 @@ Implement clustering algorithms to segment customers based on behavior.
 Analyze sentiment in tweets using NLP techniques and visualizations.
 
 ## 🛠️ Tools & Technologies:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
 SQL
 Excel
 Tableau
-Power BI
 
 ## 📈 Let's connect:
-LinkedIn: [https://linkedin.com/in/eleche-garuba]
-Email: [egaruba@gmail.com]
+LinkedIn: [https://linkedin.com/in/eleche-garuba].
+Email: [egaruba@gmail.com].
 
 Feel free to explore the code, provide feedback, or reach out for collaboration opportunities. Thank you for visiting! 🚀 
 #DataAnalyst #DataScience #Portfolio #GitHub #DataVisualization
