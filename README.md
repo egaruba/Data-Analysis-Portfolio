@@ -30,5 +30,6 @@ Power BI
 LinkedIn: [https://linkedin.com/in/eleche-garuba]
 Email: [egaruba@gmail.com]
 
-Feel free to explore the code, provide feedback, or reach out for collaboration opportunities. Thank you for visiting! 🚀 #DataAnalyst #DataScience #Portfolio #GitHub #DataVisualization
+Feel free to explore the code, provide feedback, or reach out for collaboration opportunities. Thank you for visiting! 🚀 
+#DataAnalyst #DataScience #Portfolio #GitHub #DataVisualization
 
